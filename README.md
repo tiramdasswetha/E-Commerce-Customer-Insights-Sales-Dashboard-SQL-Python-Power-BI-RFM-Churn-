@@ -311,8 +311,3 @@ More than just a technical exercise, this project represents a real shift in how
 - Countries like the United Kingdom displayed large fluctuations in average price, suggesting pricing variation across customer segments.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
