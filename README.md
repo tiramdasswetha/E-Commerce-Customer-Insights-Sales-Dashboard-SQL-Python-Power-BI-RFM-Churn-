@@ -1,5 +1,5 @@
 # Online-Retail-Data-Analytics-Project-with-Python-SQL-and-Power-BI
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tiramdas-swetha2231/)
 
 ## Introduction
 
